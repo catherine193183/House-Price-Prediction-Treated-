@@ -1,0 +1,14 @@
+date: Date of the home sale
+price: Price of each home sold
+bedrooms: Number of bedrooms
+bathrooms: Number of bathrooms
+living_in_m2: Square meters of the apartments interior living space
+nice_view: A flag that indicates the view's quality of a property
+perfect_condition: A flag that indicates the maximum index of the apartment condition
+grade: An index from 1 to 5, where 1 falls short of quality level and 5 have a high quality level of construction and design
+has_basement: A flag indicating whether or not a property has a basement
+renovated: A flag if the property was renovated
+has_lavatory: Check for the presence of these incomplete/secondary bathrooms (bathtub, sink, toilet)
+single_floor: A flag indicating whether the property had only one floor
+month: The month of the home sale
+quartile_zone: A quartile distribution index of the most expensive zip codes, where 1 means less expansive and 4 most expansive.
